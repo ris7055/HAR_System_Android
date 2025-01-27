@@ -8,3 +8,4 @@
 4. Open the Cares Admin apk and login using admin as user id and admin123 as password.
 
 Thank you!
+![cover page of HAR_in Healthcare](https://github.com/user-attachments/assets/88c70123-bb7a-412d-a465-d3a7d2f90cc6)
